@@ -1,0 +1,91 @@
+# Styles of Beyond – Nine Thou (Grant Mohrman Superstars Remix)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey yo, first thing's first,
+It's time to shake ground, in the eighth round,
+Box battle and break down,
+For the beak in the rhyme tone,
+Jump in the cyclone,
+S-T-Y-L-E-S, yes I know,
+Give the rap phene vaccine,
+Packed red beam,
+Put 'em up (what the fuck),
+You plucked a bad seed,
+Off the wall, spittin' the guerilla tag team,
+What's up now, duck down, stuff that can't breathe.
+Yo, you know the routine, the demon effect,
+Please, don't step, you wanna be one of my pet peeves,
+The more beef the better; sound gay,
+But you all wanna sleep together, ok,
+In the club we gon' sneak Berettas,
+Why not? We got so much street credit, the fuckin' police let us,
+Now that's bullshit, 'cause we don't pack heat,
+So come and get your head crackin' up at me.
+Keep it- movin' it's on now,
+Making it punk loud,
+Shaking the buck wild,
+Rapin' the punk style,
+Fakin' the funk pal,
+Dunk watch the punk,
+What now? Watch your battleship get sunk down,
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Hold it down, never give in,
+Styles ever get limbs,
+Or whether you want it to end,
+Dirty syringe, I murder 'em again,
+9-7 serving them sins,
+Uh 30 your friends get knocked out, turbulent wind,
+Hopped out, what you want, big verb in the gin,
+I'm a fish; you can tell by the flippers or fins,
+C'mon.
+Yo, I got a rock style,
+Pivot the offspring, and joke with 'em
+With a distorted guitar string,
+Who am i? Russian roulette? Who and Tak?
+Pushin' your bed hotter than Quebec in July,
+Area 5-1, stereo, rive gun live,
+Here we go, S-O-B drop some,
+For the kids in the hall with the new block tape,
+Blast from both angles like Boondock Saints,
+So get up, get up and let the sound hit ya,
+Snap this audio-style picture.
+Keep it- movin' it's on now,
+Making it punk loud,
+Shaking the buck wild,
+Rapin' the punk style,
+Fakin' the funk pal,
+Dunk watch the punk,
+What now? Watch your battleship get sunk down,
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Who the hell wear splittin' the belly up on a selfish,
+Shinnin' in your style playin' the fell blitz,
+Drillin' your brain, like rap and video games,
+Feel the syringe for the styles that's stickin' in your veins.
+Yo, what kind of shit is he on?
+Really is styles, really be on,
+C'mon punk fuck off; You really gotta be gone,
+Ripped out of your brain,
+Pissed covered in shit to diss this S-O-B game,
+Son of a bitch,
+I'ma start killin' for kicks,
+There ain't an Air Force One in the globe I can't fig, get it?
+I'm sick with it, when I spit the venom,
+And it drip's up in 'em,
+And it get's the women,
+In a quick dilemma; We can settle it now,
+And I don't know who did it, but they said it was styles.
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+Click (click) pow (pow) knocked (knocked) out (out).
+What? Just what I thought, what's up now?
+```
