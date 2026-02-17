@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Nine Thou (Grant Mohrman Superstars Remix)",
+  "base_artist": "Styles of Beyond",
+  "createdAt": "2026-02-17T12:46:34.806376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix)",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/01_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix)",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/02_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars remix)",
+      "artist": "Video, Styles of Beyond",
+      "has_synced": true,
+      "path": "select/03_Nine_Thou_(Grant_Mohrman_Superstars_remix)_Video,_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nine Thou - Grant Mohrman Superstars Remix, Clean",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/04_Nine_Thou_-_Grant_Mohrman_Superstars_Remix,_Clean_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix) (Instrumental)",
+      "artist": "Styles of Beyond",
+      "has_synced": false,
+      "path": "select/05_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_(Instrumental)_Styles_of_Beyond.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars remix)",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/06_Nine_Thou_(Grant_Mohrman_Superstars_remix)_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "nine thou (grant mohrman superstars remix)",
+      "artist": "styles of beyond; grant mohrman",
+      "has_synced": true,
+      "path": "select/07_nine_thou_(grant_mohrman_superstars_remix)_styles_of_beyond;_grant_mohrman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix) (1)",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/08_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_(1)_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman 'Superstars' Remix) (Clean)",
+      "artist": "Styles of Beyond",
+      "has_synced": true,
+      "path": "select/09_Nine_Thou_(Grant_Mohrman_'Superstars'_Remix)_(Clean)_Styles_of_Beyond.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix) [Explicit]",
+      "artist": "Styles Of Beyond",
+      "has_synced": true,
+      "path": "select/10_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_[Explicit]_Styles_Of_Beyond.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nine Thou (Grant Mohrman Superstars Remix)",
+      "artist": "Styles Of Beyond",
+      "has_synced": false,
+      "path": "select/pl_01_Nine_Thou_(Grant_Mohrman_Superstars_Remix)_Styles_Of_Beyond.txt"
+    }
+  ]
+}
